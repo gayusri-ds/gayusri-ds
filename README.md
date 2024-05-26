@@ -3,7 +3,7 @@
 - 🌱 Currently delving into Generative AI, LLM, and other areas of Artificial Intelligence.
 - 💞️ Open to collaborations and eager to contribute to innovative projects in the field.     
 - 📫 Email: gayumath99@outlook.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/gayathri-p-186171309
+  
   
 
 
